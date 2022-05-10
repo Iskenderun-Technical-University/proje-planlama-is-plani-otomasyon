@@ -29,11 +29,11 @@
     
                                        Otomasyon Tasarımı ( Çalışan Sayfası ) @aylingulbol
                                            
-- [ ] 1. Giriş sayfası oluşturma (10.05.2022)
-- [ ] 2. Yöneticiden gelen işlerin görüntülüceği sayfa (10.05.2022)
-- [ ] 3. Yöneticiye geri bildirim yapılacagı sayfa (11.05.2022)
-- [ ] 4. Çalışanın geçmişte yaptığı işlerin görüntüeneceği sayfa (12.05.2022)
-- [ ] 5. Müşteri bilgilerinin görüntüleceği sayfa (13.05.2022)
+- [ ] 1. Giriş sayfası oluşturma (11.05.2022)
+- [ ] 2. Yöneticiden gelen işlerin görüntülüceği sayfa (11.05.2022)
+- [ ] 3. Yöneticiye geri bildirim yapılacagı sayfa (12.05.2022)
+- [ ] 4. Çalışanın geçmişte yaptığı işlerin görüntüeneceği sayfa (13.05.2022)
+- [ ] 5. Müşteri bilgilerinin görüntüleceği sayfa (16.05.2022)
  
                                              Veritabanının Oluşturulması @aylingulbol
  
