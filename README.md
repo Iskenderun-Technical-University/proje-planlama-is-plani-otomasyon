@@ -41,7 +41,7 @@
  
                                        Projenin Kodlanması ( Çalışan sayfası ) @aylingulbol
                                        
- - [ ] 1. Çalışan sayfası kodlarının yazılması (29.05.2022)
+ - [ ] 1. Çalışan sayfası kodlarının yazılması (28.05.2022)
       - [ ] 1. Giriş sayfası oluşturma (22.05.2022)
       - [ ] 2. Yöneticiden gelen işlerin görüntülüceği sayfa (23.05.2022)
       - [ ] 3. Yöneticiye geri bildirim yapılacagı sayfa (24.05.2022)
