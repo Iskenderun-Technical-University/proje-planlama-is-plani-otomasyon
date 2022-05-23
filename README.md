@@ -19,12 +19,12 @@
                                         Projenin Kodlanması ( Yönetici Sayfası ) @sinancalbiyik
                                        
  - [ ] 1. Yönetici sayfası kodlarının yazılması (29.05.2022)
-      - [ ] 1.1. Çalışan bilgisinin girileceği sayfa (23.05.2022)
-      - [ ] 1.2. Müşteri bilgisinin girileceği sayfa (24.05.2022)
-      - [ ] 1.3. Çalışanlara iş bilgisinin gönderilecegi sayfa (26.05.2022)
-      - [ ] 1.4. Çalışandan gelen iş bildirimlerinin görüntüleneceği sayfa (28.05.2022)
-      - [ ] 1.5. Tamamlanan işlerin görüntülendiği sayfa (29.05.2022)
-      - [ ] 1.6. Devam eden işlerin görüntülendiği sayfa (29.05.2022) 
+      - [ ] 1.1. Çalışanlara iş bilgisinin gönderilecegi sayfa (23.05.2022)
+      - [ ] 1.2. Çalışandan gelen iş bildirimlerinin görüntüleneceği sayfa (24.05.2022)
+      - [ ] 1.3. Çalışan bilgisinin girileceği sayfa (25.05.2022)
+      - [ ] 1.4. Müşteri bilgisinin girileceği sayfa (26.05.2022)
+      - [ ] 1.5. Tamamlanan işlerin görüntülendiği sayfa (27.05.2022)
+      - [ ] 1.6. Devam eden işlerin görüntülendiği sayfa (27.05.2022) 
     
     
                                        Otomasyon Tasarımı ( Çalışan Sayfası ) @aylingulbol
