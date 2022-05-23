@@ -19,7 +19,7 @@
                                         Projenin Kodlanması ( Yönetici Sayfası ) @sinancalbiyik
                                        
  - [ ] 1. Yönetici sayfası kodlarının yazılması (29.05.2022)
-      - [ ] 1.1. Çalışanlara iş bilgisinin gönderilecegi sayfa (23.05.2022)
+      - [x] 1.1. Çalışanlara iş bilgisinin gönderilecegi sayfa (23.05.2022)
       - [ ] 1.2. Çalışandan gelen iş bildirimlerinin görüntüleneceği sayfa (24.05.2022)
       - [ ] 1.3. Çalışan bilgisinin girileceği sayfa (25.05.2022)
       - [ ] 1.4. Müşteri bilgisinin girileceği sayfa (26.05.2022)
