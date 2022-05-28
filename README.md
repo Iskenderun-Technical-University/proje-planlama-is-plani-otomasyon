@@ -2,7 +2,7 @@
                                   
 - [x] 1. Otomasyon Tasarımı   ( Aylin Gülbol , Sinan Çalbıyık )  @aylingulbol @sinancalbiyik
 - [x] 2. Veritabanı Oluşturma ( Aylin Gülbol ) @aylingulbol
-- [ ] 3. Projenin Kodlanması  ( Aylin Gülbol , Sinan Çalbıyık )  @aylingulbol @sinancalbiyik
+- [x] 3. Projenin Kodlanması  ( Aylin Gülbol , Sinan Çalbıyık )  @aylingulbol @sinancalbiyik
                                    
                                    
                                    
@@ -46,5 +46,5 @@
       - [x] 2. Yöneticiden gelen işlerin görüntülüceği sayfa (23.05.2022)
       - [x] 3. Yöneticiye geri bildirim yapılacagı sayfa (24.05.2022)
       - [x] 4. Çalışanın geçmişte yaptığı işlerin görüntüeneceği sayfa (26.05.2022)
-      - [ ] 5. Müşteri bilgilerinin görüntüleceği sayfa (28.05.2022)
+      - [x] 5. Müşteri bilgilerinin görüntüleceği sayfa (28.05.2022)
 
